@@ -47,7 +47,7 @@ export default function App() {
       marginTop: currentHeight || 0,
       justifyContent: 'center',
       alignItems: 'center',
-      backgroundColor: '#eee'
+      backgroundColor: '#fff'
     },
     flatList: {
       top: -30

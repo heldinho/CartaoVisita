@@ -9,7 +9,7 @@ export default function Wrapper(props) {
       position: 'relative',
       overflow: 'visible',
       width: 400,
-      height: 400,
+      height: 440,
       borderWidth: 0,
       borderRadius: 4,
       shadowColor: '#000',

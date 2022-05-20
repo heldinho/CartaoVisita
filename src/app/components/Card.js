@@ -8,8 +8,8 @@ export default function Card(props) {
     card: {
       backgroundColor,
       width: 360,
-      height: 200,
-      backgroundColor: '#444',
+      height: 230,
+      backgroundColor: '#eee',
       padding: 20,
       marginHorizontal: 20,
       borderRadius: 15,
@@ -20,7 +20,7 @@ export default function Card(props) {
       },
       shadowOpacity: 1,
       shadowRadius: 10,
-      elevation: 5
+      elevation: 8
     },
     header: {
       flexDirection: 'row',
@@ -35,16 +35,14 @@ export default function Card(props) {
       marginRight: 20
     },
     title: {
-      color: '#fff',
+      color: '#444',
       fontSize: 18
     },
     textInstagram: {
-      color: '#777',
-      fontSize: 12
+      color: '#555'
     },
     textBio: {
-      color: '#aaa',
-      fontSize: 10
+      color: '#555'
     }
   })
 
